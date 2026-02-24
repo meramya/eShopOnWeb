@@ -9,7 +9,7 @@ env:
   LOCATION: australiacentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: bac4bb35-db12-4e5b-aca1-c3dcf9260daa
-  WEBAPP-NAME: eshoponweb-webapp-ramya01
+  WEBAPP-NAME: eshoponweb-webapp-ramya0152545655
 
 
 jobs:
